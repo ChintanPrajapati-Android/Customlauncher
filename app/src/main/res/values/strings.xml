@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Task-1 Launcher </string>
+    <string name="search">Search apps</string>
+    <string name="uninstall_app_error">Can\'t Uninstall System Application!</string>
+</resources>
